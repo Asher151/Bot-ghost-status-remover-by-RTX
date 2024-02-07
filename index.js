@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Share"];
+const statusMessages = ["Watching Insight"];
 
 
 let currentIndex = 0;

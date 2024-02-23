@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over Sync"];
+const statusMessages = ["Watching over Pixel"];
 
 
 let currentIndex = 0;

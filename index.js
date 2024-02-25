@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over Pixel"];
+const statusMessages = ["Watching over Insight"];
 
 
 let currentIndex = 0;

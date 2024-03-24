@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over Insight"];
+const statusMessages = ["Watching over Sync"];
 
 
 let currentIndex = 0;
